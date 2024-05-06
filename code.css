@@ -1,0 +1,124 @@
+#div0{
+    background-image: url("Background.png");
+}
+.div1_1 h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    margin-top: 150px;
+}
+.div1 p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18.5px;
+}
+#div1 img{
+    height: 350px;
+    weight: 250px;
+    margin-left: 160px;
+    border-radius: 7px;
+    margin-top: 40px;
+}
+.div2 img{
+    height: 350px;
+    weight: 275px;
+    margin-left: 775px;
+    margin-top: 50px;
+}
+.div2_1 h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -290px;
+    margin-left: 170px;
+}
+.div2_1 p{
+    margin-left: 170px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.div2 a{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 170px;
+    font-size: 13px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-width: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+}
+.div1_2{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    margin-left: 550px;
+    margin-right: 550px;
+    padding: 2px;
+    border-radius: 5px;
+    border-width: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.div0{
+    margin-left: 170px;
+    display: flex;
+}
+.div0_2{
+    margin-left: 660px;
+    margin-bottom: 10px;
+}
+.div0_2 #span1{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.div0_2 spam{
+    background-color: black;
+    color: white;
+    margin-left: 30px;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.div0_2 spom{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+}
+.div3{
+    margin-top: 150px;
+    margin-left: 170px;
+    font-size: 2px;
+    font-weight: 200;
+}
+.div3 span{
+    margin-left: 580px;
+    font-size: 18px;
+}
+.div3 sop{
+    margin-left: 30px;
+}
+head{
+    background-image: url(Background.png);
+}
+.div3{
+    display: flex;
+}
+.div0_2{
+    display: flex;
+    margin-top: 60px;
+}
+.div0_1{
+    margin-top: 60px;
+    width: 20px;
+    height: 10px;
+}
+
